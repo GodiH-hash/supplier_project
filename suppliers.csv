@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Supplier,Total Cost,Quantity
 AlphaTech,12000,1000
 BetaSupply,15000,1000
 QuickBuy,11000,900
+=======
+comment
+"Shipment delayed due to factory shutdown"
+"Order completed ahead of schedule"
+"Supplier facing financial difficulties"
+>>>>>>> 3e78d2d (git commit -m "feat: build AI-powered supplier risk rating tool with OpenAI API")
